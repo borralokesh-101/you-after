@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amazon Electronic Store</title>
+  <!-- Add CSS and JavaScript files here -->
+</head>
+<body>
+  <!-- Header section -->
+  <header>
+    <h1>Welcome to Amazon Electronic Store</h1>
+    <!-- Add navigation menu here -->
+  </header>
+
+  <!-- Main content section -->
+  <main>
+    <!-- Product catalog -->
+    <section>
+      <h2>Product Catalog</h2>
+      <!-- Display the products here -->
+    </section>
+
+    <!-- Search catalog -->
+    <section>
+      <h2>Search Catalog</h2>
+      <!-- Add search functionality here -->
+    </section>
+
+    <!-- Filters -->
+    <section>
+      <h2>Filters</h2>
+      <!-- Add filters for refining search results -->
+    </section>
+
+    <!-- Reviews and ratings -->
+    <section>
+      <h2>Reviews and Ratings</h2>
+      <!-- Display reviews and ratings for products -->
+    </section>
+
+    <!-- Subscription -->
+    <section>
+      <h2>Subscription</h2>
+      <!-- Add subscription form for customers -->
+    </section>
+
+    <!-- Login -->
+    <section>
+      <h2>Login</h2>
+      <!-- Add login form for customers -->
+    </section>
+
+    <!-- One-click ordering -->
+    <section>
+      <h2>One-Click Ordering</h2>
+      <!-- Implement one-click ordering functionality -->
+    </section>
+
+    <!-- Product suggestions -->
+    <section>
+      <h2>Product Suggestions</h2>
+      <!-- Display suggested products based on browsing history -->
+    </section>
+
+    <!-- Purchase history -->
+    <section>
+      <h2>Purchase History</h2>
+      <!-- Display customer's purchase history -->
+    </section>
+
+    <!-- Gaming zone -->
+    <section>
+      <h2>Gaming Zone</h2>
+      <!-- Add gaming zone content here -->
+    </section>
+
+    <!-- Offers -->
+    <section>
+      <h2>Offers</h2>
+      <!-- Display offers for frequent customers -->
+    </section>
+  </main>
+
+  <!-- Footer section -->
+  <footer>
+    <!-- Add footer content here -->
+  </footer>
+</body>
+</html>
